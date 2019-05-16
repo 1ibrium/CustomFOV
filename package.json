@@ -1,0 +1,10 @@
+{
+  "name": "com.multiverse.customfov",
+  "displayName": "CustomFOV",
+  "version": "0.0.1",
+  "unity": "2019.1",
+  "description": "Calculate custom fov base on vertex positon modify",
+  "dependencies": {
+    "com.unity.render-pipelines.core": "5.13.0"
+  }
+}
